@@ -3,7 +3,7 @@ layout: default
 title: Takeshi Morikawa PROFILE
 ---
 
-# Takeshi Morikawa
+# About me
 
 ## Github
 
