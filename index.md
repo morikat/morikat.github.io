@@ -11,7 +11,7 @@ title: Takeshi Morikawa PROFILE
 |SlideShare|[https://www.slideshare.net/morika-t](https://www.slideshare.net/morika-t)|[https://www.slideshare.net/morika_t](https://www.slideshare.net/morika_t)|
 |Qiita|[https://qiita.com/morika-t](https://qiita.com/morika-t)|[https://qiita.com/morikat](https://qiita.com/morikat)|
 |speakerdeck||[https://speakerdeck.com/morika_t](https://speakerdeck.com/morika_t)|
-|hatena blog||[http://morika-t.hatenablog.com/](http://morika-t.hatenablog.com/)|
+|hatena blog||[http://morika-t.hatenablog.com/](https://morika-t.hatenablog.com/)|
 
 
 ## for Cloud Foundry
