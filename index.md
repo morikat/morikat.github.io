@@ -15,7 +15,9 @@ title: Takeshi Morikawa PROFILE
 
 * [https://www.slideshare.net/morika-t](https://www.slideshare.net/morika-t)
 
+### Qiita
 
+* [https://qiita.com/morika-t](https://qiita.com/morika-t)
 
 ## private
 
@@ -30,6 +32,14 @@ title: Takeshi Morikawa PROFILE
 ### speakerdeck
 
 * [https://speakerdeck.com/morika_t](https://speakerdeck.com/morika_t)
+
+### hatena blog
+
+* [http://morika-t.hatenablog.com/](http://morika-t.hatenablog.com/)
+
+### Qiita
+
+* [https://qiita.com/morikat](https://qiita.com/morikat)
 
 ## for Cloud Foundry
 
